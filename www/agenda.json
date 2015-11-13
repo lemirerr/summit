@@ -1,0 +1,122 @@
+{
+    "agenda": [
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "0700 - 0900",
+            "day": "2",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"Continental Breakfast",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "0700 - 1700",
+            "day": "2",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"SPONSOR EXHIBIT HALL OPEN",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "CAPTAIN SCOTT HELLER",
+            "description": "Commanding Officer, SPAWAR System Center Atlantic",
+            "photo": "img/heller.png",
+            "time": "0800 - 0830",
+            "day": "1",
+            "room": "Grand Ballroom",
+            "session" :"Welcome and Intro",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "VADM TED N. BRANCH",
+            "description": "Deputy Chief of Naval Operations for Information Dominance and Director of Naval Intelligence",
+            "photo": "img/branch.png",
+            "time": "0830 - 0915",
+            "day": "1",
+            "room": "Grand Ballroom",
+            "session" : "Keynote Speaker #1",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "0900",
+            "day": "2",
+            "room": "Meeting Room 3",
+            "session" :"HACK WARZ STARTS",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "0900",
+            "day": "2",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"MOBILE APP COMPETITION",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "RDML CHRISTIAN BECKER",
+            "description": "PEO EIS",
+            "photo": "img/becker.png",
+            "time": "0915 - 1000",
+            "day": "1",
+            "room": "Grand Ballroom",
+            "session" : "Keynote Speaker #2",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1000 - 1030",
+            "day": "2",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"NETWORKING BREAK",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "BGen Dennis Crall (HQMC, Director of C4), MGEN Lawrence Brock (USAR, Commanding General 311th Signal Command), Mr. James Smerchansky (MARCORSYCOM, Executive Director SES), Mr. John Wilcox (J6/CIO, HQ USSOCOM SES)",
+            "description": "Expedetionary and Special Operations Priorities for the NextGen Warfighter",
+            "photo": "img/logo2.png",
+            "time": "1030 - 1200",
+            "day": "1",
+            "room": "Grand Ballroom",
+            "session" : "Joint Panel I",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "Ben",
+            "description": "some longer text to talk about the speaker and his or her history and why they rock",
+            "photo": "img/ben.png",
+            "time": "12:30 PM",
+            "day": "1",
+            "room": "main room",
+            "session" : "The Past"
+        },
+        {
+            "speaker": "Ben",
+            "description": "some longer text to talk about the speaker and his or her history and why they rock",
+            "photo": "img/ben.png",
+            "time": "12:30 PM",
+            "day": "1",
+            "room": "main room",
+            "session" : "The Past"
+        },
+        {
+            "speaker": "Mike",
+            "description": "some longer text to talk about the speaker and his or her history and why they rock",
+            "photo": "img/mike.png",
+            "time": "12:30 PM",
+            "day": "1",
+            "room": "main room",
+            "session" : "The Past"
+        }
+
+    ]
+}

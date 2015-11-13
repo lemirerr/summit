@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" ng-app="App">
+	<head>
+		<meta charset="UTF-8">
+		    <meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=.8">
+		<title>C5ISR Summit Agenda - 2015</title>
+
+		<!-- Ionic Libs-->
+		<link rel="stylesheet" type="text/css" href="lib/ionic/css/ionic.css">
+		<script src="lib/ionic/js/ionic.bundle.js"></script>
+
+		<!--App links-->
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="js/app.js"></script>
+
+	</head>
+	<body ng-controller="AppCtrl">
+		<ion-pane>
+			<!--header -->
+			<ion-header-bar class="bar-positive">
+				<h1 class="title">C5ISR Agenda</h1>
+			</ion-header-bar>
+			<!-- agenda content -->
+			<ion-content>
+			<ion-refresher pulling-text="Reloading" on-refresh="reload()"></ion-refresher>
+				<div class="card list" ng-repeat="a in agenda">
+					<div class="item item-avatar-left">
+						<img ng-src="{{ a.photo }}" alt="">
+						<h2 ng-bind-html="a.session"></h2>
+						<h3><i class="icon ion-android-time"></i>&nbsp {{a.time}} &nbsp {{a.date}} &nbsp {{a.room}} </h3>
+					</div>
+					<div class="item item-body">
+						<h4><strong>{{a.description}}</strong></h4>
+						<h4>{{a.speaker}}</h4>
+					</div>
+				</div>	
+			</ion-content>
+		</ion-pane>
+		
+
+	</body>
+</html>

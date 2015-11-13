@@ -1,0 +1,28 @@
+/* Empty. Add your own CSS if you like */
+.bar-positive {
+	box-shadow: 0px 5px 5px grey;
+}
+
+.item.item-avatar-left {
+
+	background: #ADD8E6;
+}
+
+.thumbnail {
+	height: 64px;
+	border-radius: 36px;
+	float: left;
+	margin-right: 12px;
+}
+.agendaitem{
+  h2 {
+    margin: 0 0 2px 0 !important;
+    font-size: 32px !important;
+    font-weight: normal !important; }
+  h3 {
+    margin: 0 0 4px 0 !important;
+    font-size: 28px !important; }
+  h4 {
+    margin: 0 0 4px 0 !important;
+    font-size: 24px!important; }
+}
