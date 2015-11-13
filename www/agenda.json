@@ -134,7 +134,7 @@
             "speaker": "Mr. Victor  Gavin",
             "description": "PEO EIS (SES)",
             "photo": "img/gavin.png",
-            "time": "1130 - 1200",
+            "time": "1215 - 1300",
             "day": "2",
             "room": "Grand Ballroom",
             "session" : "Luncheon Keynote #3",
@@ -146,10 +146,10 @@
             "photo": "img/logo2.png",
             "time": "1200 - 1230",
             "day": "2",
-            "room": "Ballroom Foyer",
-            "session" :"Luncheon",
-            "date" : "02 Dec 15""
-        },
+            "room": "Sponsor Exhibit Hall",
+            "session" :"Networking  Break",
+            "date" : "02 Dec 15"
+        }
 
 
     ]
