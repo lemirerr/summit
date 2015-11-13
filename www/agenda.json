@@ -85,19 +85,20 @@
             "description": "Expedetionary and Special Operations Priorities for the NextGen Warfighter",
             "photo": "img/logo2.png",
             "time": "1030 - 1200",
-            "day": "1",
+            "day": "2",
             "room": "Grand Ballroom",
             "session" : "Joint Panel I",
             "date" : "02 Dec 15"
         },
         {
-            "speaker": "Ben",
-            "description": "some longer text to talk about the speaker and his or her history and why they rock",
-            "photo": "img/ben.png",
-            "time": "12:30 PM",
-            "day": "1",
-            "room": "main room",
-            "session" : "The Past"
+            "speaker": "TBD",
+            "description": "TBD",
+            "photo": "img/logo2.png",
+            "time": "1030 - 1100",
+            "day": "2",
+            "room": "Briefing Theater",
+            "session" : "Designin Agile C2 Operating Enviroments",
+            "date" : "02 Dec 15"
         },
         {
             "speaker": "Ben",
