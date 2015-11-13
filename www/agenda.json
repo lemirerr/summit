@@ -91,8 +91,8 @@
             "date" : "02 Dec 15"
         },
         {
-            "speaker": "TBD",
-            "description": "TBD",
+            "speaker": "Donovan Lusk",
+            "description": "Designing   Agile   C2  Operating   Environments",
             "photo": "img/logo2.png",
             "time": "1030 - 1100",
             "day": "2",
@@ -101,23 +101,56 @@
             "date" : "02 Dec 15"
         },
         {
-            "speaker": "Ben",
-            "description": "some longer text to talk about the speaker and his or her history and why they rock",
-            "photo": "img/ben.png",
-            "time": "12:30 PM",
-            "day": "1",
-            "room": "main room",
-            "session" : "The Past"
+            "speaker": "Jeff Hart",
+            "description": "Using  Big Data to achieve Level 3 IT  Situational",
+            "photo": "img/logo2.png",
+            "time": "1100 - 1130",
+            "day": "2",
+            "room": "Briefing Theater",
+            "session" : "Using  Big Data to achieve Level 3 IT  Situational",
+            "date" : "02 Dec 15"
         },
         {
-            "speaker": "Mike",
-            "description": "some longer text to talk about the speaker and his or her history and why they rock",
-            "photo": "img/mike.png",
-            "time": "12:30 PM",
-            "day": "1",
-            "room": "main room",
-            "session" : "The Past"
-        }
+            "speaker": "Justin Sellers",
+            "description": "REDHAWK",
+            "photo": "img/logo2.png",
+            "time": "1130 - 1200",
+            "day": "2",
+            "room": "Briefing Theater",
+            "session" : "REDHAWK",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1200 - 1230",
+            "day": "2",
+            "room": "Ballroom Foyer",
+            "session" :"Luncheon",
+            "date" : "02 Dec 15"
+        },
+                {
+            "speaker": "Mr. Victor  Gavin",
+            "description": "PEO EIS (SES)",
+            "photo": "img/gavin.png",
+            "time": "1130 - 1200",
+            "day": "2",
+            "room": "Grand Ballroom",
+            "session" : "Luncheon Keynote #3",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1200 - 1230",
+            "day": "2",
+            "room": "Ballroom Foyer",
+            "session" :"Luncheon",
+            "date" : "02 Dec 15""
+        },
+
 
     ]
 }
