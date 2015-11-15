@@ -28,7 +28,8 @@
             "day": "1",
             "room": "Grand Ballroom",
             "session" :"Welcome and Intro",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/ending-session/"
         },
         {
             "speaker": "VADM TED N. BRANCH",

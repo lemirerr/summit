@@ -20,7 +20,8 @@ function AppCtrl($scope, $ionicLoading, Agenda, $log){
 					time : a.time,
 					session : a.session,
 					date : a.date,
-					day : a.day
+					day : a.day,
+					more_url : a.more_url
 
 				});
 			});
