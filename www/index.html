@@ -25,23 +25,29 @@
 			<ion-content>
 			<ion-refresher pulling-text="Reloading" on-refresh="reload()"></ion-refresher>
 				<div class="card list" ng-repeat="a in agenda">
+
+					<!--card header -->
 					<div class="item item-avatar-left">
 						<img ng-src="{{ a.photo }}" alt="">
 						<h2 ng-bind-html="a.session"></h2>
 						<h3><i class="icon ion-android-time"></i>&nbsp {{a.time}} &nbsp {{a.date}} &nbsp {{a.room}} </h3>
 					</div>
+
+					<!-- card body -->
 					<div class="item item-body">
 						<h4><strong>{{a.description}}</strong></h4>
 						<h4>{{a.speaker}}</h4>
 					</div>
+
+					<!--bottom tabs on the card -->
 					<div class="item tabs tabs-secondary tabs-icon-left">
 					 	<a class="tab-item" href="http://summit.charlestondca.org/wp-content/uploads/2015/11/DRAFT-PRINTABLE-WORKING-AGENDA2.pdf">
-      					<i class="icon ion-android-list"></i>
-      					PDF Agenda	
+      						<i class="icon ion-android-list"></i>
+      						PDF Agenda	
     					</a>
     					<a class="tab-item" href="{{a.more_url}}">
-      					<i class="icon ion-paper-airplane"></i>
-      					Details
+      						<i class="icon ion-paper-airplane"></i>
+      						Details
     					</a>
 					</div>
 				</div>	
