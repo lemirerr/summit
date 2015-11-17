@@ -51,9 +51,13 @@ App.service("Agenda", ["$http", "$rootScope", "$log", Agenda]);
 
 App.service("Agenda2", ["$http", "$rootScope", "$log", Agenda2]);
 
+App.service("Agenda3", ["$http", "$rootScope", "$log", Agenda3]);
+
 App.controller("AppCtrl", ["$scope", "$ionicLoading", "Agenda", "$log", AppCtrl]);
 
 App.controller("Day2Ctrl", ["$scope", "$ionicLoading", "Agenda2", "$log", Day2Ctrl]);
+
+App.controller("Day3Ctrl", ["$scope", "$ionicLoading", "Agenda3", "$log", Day3Ctrl]);
 
 App.controller('HomeTabCtrl', function($scope){
 	console.log('HomeTabCtrl');
@@ -129,6 +133,39 @@ function Day2Ctrl($scope, $ionicLoading, Agenda2, $log){
 	
 }
 
+function Day3Ctrl($scope, $ionicLoading, Agenda3, $log){
+
+		$ionicLoading.show({template: "Loading agenda..."});
+	
+		$scope.agenda3 = [];
+		$scope.$on("App.agenda3", function(_, result){
+			result.agenda.forEach(function(a){
+				$scope.agenda3.push({
+					speaker: a.speaker,
+					description : a.description,
+					photo : a.photo,
+					room : a.room,
+					time : a.time,
+					session : a.session,
+					date : a.date,
+					day : a.day,
+					more_url : a.more_url
+
+				});
+			});
+			$scope.$broadcast("scroll.refreshComplete");
+			$ionicLoading.hide();
+		});
+		Agenda3.getAgenda();
+
+		$scope.reload = function(){
+			$scope.agenda3 = [];
+			Agenda3.getAgenda();
+
+		}
+	
+}
+
 
 function Agenda($http, $rootScope, $log){
 	this.getAgenda = function($scope){
@@ -143,6 +180,14 @@ function Agenda2($http, $rootScope, $log){
 	this.getAgenda = function($scope){
 		$http.get("agenda.json").success(function(result){
 			$rootScope.$broadcast("App.agenda2", result);			
+		});
+	};
+}
+
+function Agenda3($http, $rootScope, $log){
+	this.getAgenda = function($scope){
+		$http.get("agenda3.json").success(function(result){
+			$rootScope.$broadcast("App.agenda3", result);			
 		});
 	};
 }

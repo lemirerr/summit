@@ -1,6 +1,13 @@
-			<ion-content ng-controller="AppCtrl">
+			<ion-content ng-controller="Day3Ctrl">
 			<ion-refresher pulling-text="Reloading" on-refresh="reload()"></ion-refresher>
-				<div class="card list" ng-repeat="a in agenda">
+
+			<!-- space to account for the header -->
+			<div>
+				<br>
+				<br>
+			</div>
+
+				<div class="card list" ng-repeat="a in agenda3">
 
 					<!--card header -->
 					<div class="item card-header">
