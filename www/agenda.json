@@ -39,7 +39,8 @@
             "day": "1",
             "room": "Grand Ballroom",
             "session" : "Keynote Speaker #1",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/finding-supplier/"
         },
         {
             "speaker": " ",
@@ -69,7 +70,8 @@
             "day": "1",
             "room": "Grand Ballroom",
             "session" : "Keynote Speaker #2",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/keynote-speaker-2/"
         },
         {
             "speaker": " ",
@@ -89,7 +91,8 @@
             "day": "2",
             "room": "Grand Ballroom",
             "session" : "Joint Panel I",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/creating-productivity-1/"
         },
         {
             "speaker": "Donovan Lusk",
@@ -99,7 +102,8 @@
             "day": "2",
             "room": "Briefing Theater",
             "session" : "Designing Agile C2 Operating Enviroments",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/designing-agile-c2-operating-environments/"
         },
         {
             "speaker": "Jeff Hart",
@@ -109,7 +113,8 @@
             "day": "2",
             "room": "Briefing Theater",
             "session" : "Using  Big Data to achieve Level 3 IT  Situational",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/using-big-data-to-achieve-level-3-it-situational-awareness/"
         },
         {
             "speaker": "Justin Sellers",
@@ -119,7 +124,8 @@
             "day": "2",
             "room": "Briefing Theater",
             "session" : "REDHAWK",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/redhawk/"
         },
         {
             "speaker": " ",
@@ -131,7 +137,7 @@
             "session" :"Luncheon",
             "date" : "02 Dec 15"
         },
-                {
+        {
             "speaker": "Mr. Victor  Gavin",
             "description": "PEO EIS (SES)",
             "photo": "img/gavin.png",
@@ -139,7 +145,8 @@
             "day": "2",
             "room": "Grand Ballroom",
             "session" : "Luncheon Keynote #3",
-            "date" : "02 Dec 15"
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/product-lines/"
         },
         {
             "speaker": " ",
@@ -149,6 +156,91 @@
             "day": "2",
             "room": "Sponsor Exhibit Hall",
             "session" :"Networking  Break",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "CAPT Ben McNeal (PMW 160), CAPT Don Harder (PMW 150), CAPT Mark Kempf (PMW 120) Mr. Wayne Perras (ONR), Mr. John Lillard (SSC LANT), Mr. Matt Zager (Red Hat) ",
+            "description": "Afloat Networks Computing at the Tactical Edge",
+            "photo": "img/logo2.png",
+            "time": "1330 - 1630",
+            "day": "2",
+            "room": "Ballroom A",
+            "session" : "Technical Tracks - Workshop I",
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/furnishing-process/"
+        },
+        {
+            "speaker": "Dennis Hager, SPAWAR",
+            "description": "Automating the USMC Command Operation Center’s Planning and Decision Making Process Utilizing Multi-Domain Data Analytics",
+            "photo": "img/logo2.png",
+            "time": "1330 - 1400",
+            "day": "2",
+            "room": "Briefing Theater",
+            "session" : "Automating the USMC Command Operation Center’s Planning and Decision Making Process",
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/3910/"
+        },
+        {
+            "speaker": "Mr. Dan DelGrosso (PEO EIS), Mr. Bruce Urbon (PMW 220), Mr. John Pope (DCAO), Mr. Philip Anderson(PMW 205), Mr. Patrick Fitzgerald (PMW 240)",
+            "description": "Empowering the Warfighter through IT",
+            "photo": "img/logo2.png",
+            "time": "1400 - 1600",
+            "day": "2",
+            "room": "Ballroom B",
+            "session" : "Technical Tracks - Workshop II",
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/product-presentation/"
+        },
+        {
+            "speaker": "Peter Nuwayser",
+            "description": "Leveraging commercial cloud computing capabilities to enable rapid, secure delivery of DoD capabilities on or off premises",
+            "photo": "img/logo2.png",
+            "time": "1430 - 1500",
+            "day": "2",
+            "room": "Briefing Theater",
+            "session" : "Leveraging commercial cloud computing capabilities",
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/leveraging-commercial-cloud-computing-capabilities/"
+        },
+        {
+            "speaker": "John Nemoto",
+            "description": "Elevating security in commercial cloud implementations to meet the higher DoD Impact Levels",
+            "photo": "img/logo2.png",
+            "time": "1500 - 1530",
+            "day": "2",
+            "room": "Briefing Theater",
+            "session" : "Elevating security in commercial cloud implementations",
+            "date" : "02 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/leveraging-commercial-cloud-computing-capabilities/"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1530 - 1600",
+            "day": "2",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"Networking  Break",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1600 - 1730",
+            "day": "2",
+            "room": "Meet the Senior Leadership",
+            "session" :"Networking  Break",
+            "date" : "02 Dec 15"
+        },
+        {
+            "speaker": "(Invite Only) ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1730 - 1930",
+            "day": "2",
+            "room": " ",
+            "session" :"Speaker Reception",
             "date" : "02 Dec 15"
         }
 
