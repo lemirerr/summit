@@ -1,11 +1,13 @@
 /* Empty. Add your own CSS if you like */
 .bar-positive {
 	box-shadow: 0px 5px 5px grey;
+	border-color: #A4D4E4 !important;
+	background: #154855 !important;
 }
 
 .item.item-avatar-left {
 
-	background: #ADD8E6;
+	background: #A4D4E4;
 }
 
 .thumbnail {

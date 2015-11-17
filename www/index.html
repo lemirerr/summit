@@ -19,7 +19,7 @@
 		<ion-pane>
 			<!--header -->
 			<ion-header-bar class="bar-positive">
-				<h1 class="title">C5ISR Agenda</h1>
+				<h1 class="title">9th Annual CDCA C5ISR Summit Agenda</h1>
 			</ion-header-bar>
 			<!-- agenda content -->
 			<ion-content>
@@ -29,12 +29,13 @@
 					<!--card header -->
 					<div class="item item-avatar-left">
 						<img ng-src="{{ a.photo }}" alt="">
-						<h2 ng-bind-html="a.session"></h2>
-						<h3><i class="icon ion-android-time"></i>&nbsp {{a.time}} &nbsp {{a.date}} &nbsp {{a.room}} </h3>
+						<h3> {{a.session}}</h3>
+						<h4><i class="icon ion-android-time"></i>&nbsp {{a.time}} &nbsp {{a.date}} </h4>
 					</div>
 
 					<!-- card body -->
 					<div class="item item-body">
+						<h4>Room: &nbsp {{a.room}}</h4>
 						<h4><strong>{{a.description}}</strong></h4>
 						<h4>{{a.speaker}}</h4>
 					</div>
