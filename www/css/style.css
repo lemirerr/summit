@@ -36,3 +36,11 @@
 .tabs-icon-top{
 	background: #154855 !important;
 }
+
+.home-screen {
+ 	position: relative;
+  	z-index: 2;
+  	display: block;
+  	text-align: center;
+
+}
