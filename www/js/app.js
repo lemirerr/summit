@@ -1,6 +1,9 @@
 var App = angular.module("App", ["ionic"]);
 
-App.config(function($stateProvider, $urlRouterProvider){
+App.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
+	$ionicConfigProvider.tabs.position('bottom'); //Places them at the bottom for all OS
+  	$ionicConfigProvider.tabs.style('standard');  //Makes them all look the same across all O
+
 
 	$stateProvider
 		.state('tabs', {
