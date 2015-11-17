@@ -27,17 +27,19 @@
 				<div class="card list" ng-repeat="a in agenda">
 
 					<!--card header -->
-					<div class="item item-avatar-left">
-						<img ng-src="{{ a.photo }}" alt="">
+					<div class="item card-header">
+						<!--<img ng-src="{{ a.photo }}" alt=""> -->
 						<h3> {{a.session}}</h3>
 						<h4><i class="icon ion-android-time"></i>&nbsp {{a.time}} &nbsp {{a.date}} </h4>
 					</div>
 
 					<!-- card body -->
 					<div class="item item-body">
-						<h4>Room: &nbsp {{a.room}}</h4>
+						<img class="thumbnail" ng-src="{{ a.photo }}">
 						<h4><strong>{{a.description}}</strong></h4>
 						<h4>{{a.speaker}}</h4>
+						<h4>Room: &nbsp {{a.room}}</h4>
+						
 					</div>
 
 					<!--bottom tabs on the card -->

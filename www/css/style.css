@@ -5,15 +5,15 @@
 	background: #154855 !important;
 }
 
-.item.item-avatar-left {
+.card-header {
 
 	background: #A4D4E4;
 }
 
 .thumbnail {
-	height: 64px;
-	border-radius: 36px;
-	float: left;
+	height: 84px;
+	border-radius: 42px;
+	float: right;
 	margin-right: 12px;
 }
 .agendaitem{
