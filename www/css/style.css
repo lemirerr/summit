@@ -29,3 +29,10 @@
     margin: 0 0 4px 0 !important;
     font-size: 24px!important; }
 }
+
+.tabs.tabs-positive {
+	background-color: #154855 !important;
+}
+.tabs-icon-top{
+	background: #154855 !important;
+}

@@ -1,0 +1,33 @@
+			<ion-content ng-controller="AppCtrl">
+			<ion-refresher pulling-text="Reloading" on-refresh="reload()"></ion-refresher>
+				<div class="card list" ng-repeat="a in agenda">
+
+					<!--card header -->
+					<div class="item card-header">
+						<!--<img ng-src="{{ a.photo }}" alt=""> -->
+						<h3> {{a.session}}</h3>
+						<h4><i class="icon ion-android-time"></i>&nbsp {{a.time}} &nbsp {{a.date}} </h4>
+					</div>
+
+					<!-- card body -->
+					<div class="item item-body">
+						<img class="thumbnail" ng-src="{{ a.photo }}">
+						<h4><strong>{{a.description}}</strong></h4>
+						<h4>{{a.speaker}}</h4>
+						<h4>Room: &nbsp {{a.room}}</h4>
+						
+					</div>
+
+					<!--bottom tabs on the card -->
+					<div class="item tabs tabs-secondary tabs-icon-left">
+					 	<a class="tab-item" href="http://summit.charlestondca.org/wp-content/uploads/2015/11/DRAFT-PRINTABLE-WORKING-AGENDA2.pdf">
+      						<i class="icon ion-android-list"></i>
+      						PDF Agenda	
+    					</a>
+    					<a class="tab-item" href="{{a.more_url}}">
+      						<i class="icon ion-paper-airplane"></i>
+      						Details
+    					</a>
+					</div>
+				</div>	
+			</ion-content>
