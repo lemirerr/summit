@@ -5,20 +5,240 @@
             "description": " ",
             "photo": "img/logo2.png",
             "time": "0700 - 0900",
-            "day": "2",
+            "day": "3",
             "room": "Sponsor Exhibit Hall",
             "session" :"Continental Breakfast",
-            "date" : "02 Dec 15"
+            "date" : "03 Dec 15"
         },
         {
             "speaker": " ",
             "description": " ",
             "photo": "img/logo2.png",
             "time": "0700 - 1700",
-            "day": "2",
+            "day": "3",
             "room": "Sponsor Exhibit Hall",
             "session" :"SPONSOR EXHIBIT HALL OPEN",
-            "date" : "02 Dec 15"
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "Mr. David DeVries",
+            "description": "Deputy, Department of Defense Chief Information Officer",
+            "photo": "img/devries.jpg",
+            "time": "0815 - 0900",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" : "Keynote Speaker #4",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/speaker/mr-david-devries/",
+            "questions" : true
+        },
+        {
+            "speaker": "Mr. Chris Miller",
+            "description": "Program Executive Officer (PEO) for the DoD Healthcare Management System (DHMS)",
+            "photo": "img/miller.png",
+            "time": "0900 - 0945",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" : "Keynote Speaker #5",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/speaker/mr-christopher-a-miller-program-executive-officer/",
+            "questions" : true
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "0945 - 1000",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" :"Announce HACK WARZ Winner",
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1000 - 1030",
+            "day": "3",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"Networking Break",
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "Dr. Peter Fonash (DHS), Ms. Renee Tarun (NSA), Mr. Chris Paczkowski (DISA), Ms. Kim Watson (JHU/APL), Mr. Dick Schaeffer (KEYW Corporation)  ",
+            "description": "Cyber Security for Government Networks",
+            "photo": "img/logo2.png",
+            "time": "1030 - 1200",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" : "Joint Panel II",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/joint-panel-ii/",
+            "questions" : true
+        },
+        {
+            "speaker": "Paul West, SPAWAR",
+            "description": "Future of Mobility and Data Technologies for Land",
+            "photo": "img/logo2.png",
+            "time": "1100 - 1130",
+            "day": "3",
+            "room": "Briefing Theater",
+            "session" : "Future of Mobility and Data Technologies for Land",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/future-of-mobility-and-data-technologies-for-land/"
+        },
+        {
+            "speaker": "Steve Fraile, SPAWAR",
+            "description": "How might Government with Industry make a difference to the US Marine Intel Advanced Analytics?",
+            "photo": "img/logo2.png",
+            "time": "1130 - 1200",
+            "day": "3",
+            "room": "Briefing Theater",
+            "session" : "Making a Difference to uSMC Intel Advanced Analytics",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/future-of-mobility-and-data-technologies-for-land/"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1200 - 1230",
+            "day": "3",
+            "room": "Ballroom Foyer",
+            "session" :"Luncheon",
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "Dr. Jeff Barr",
+            "description": "Chief Evangelist for Amazon Web Services (AWS)",
+            "photo": "img/barr.png",
+            "time": "1215 - 1300",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" : "Keynote Speaker #6",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/speaker/dr-jeff-barr-chief-evangelist/",
+            "questions" : true
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1300 - 1330",
+            "day": "3",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"Networking Break",
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "Col Donald McDaniel, (PMM 111), Col Casey Travers (PMM 112), Mr. Daniel Corbin (PMM 110), Ms. Deb Woods (US SOCOM) ",
+            "description": "Technology and Operational Innovations for Future Expeditionary and Special Warfre",
+            "photo": "img/logo2.png",
+            "time": "1330 - 1530",
+            "day": "3",
+            "room": "Ballroom A",
+            "session" : "Technical Track III",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iii/",
+            "questions" : true
+        },
+        {
+            "speaker": "LtGen William Bender (USAF), BGen Dennis Crall, (HQMC C4), Mr. Thomas Michelli (USCG), Dr. Marv Langston (Langston Associates), Mr. Jason Opdycke (Microsoft), Mr. Roger Hockenberry (Cognito), Ms. Mindy Cancila (Gartner)   ",
+            "description": "Managing DOD's Data by Partnering with Industry for Cloud Migration",
+            "photo": "img/logo2.png",
+            "time": "1330 - 1530",
+            "day": "3",
+            "room": "Ballroom B",
+            "session" : "Technical Track IV",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iv/",
+            "questions" : true
+        },
+        {
+            "speaker": "Mike Nierman, SPAWAR",
+            "description": "Joint Threat Warning System: Technical Challenges",
+            "photo": "img/logo2.png",
+            "time": "1330 - 1400",
+            "day": "3",
+            "room": "Briefing Theater",
+            "session" : "Joint Threat Warning System",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/joint-threat-warning-system-technical-challenges/"
+        },
+        {
+            "speaker": "Francoise Keefe",
+            "description": "Disconnected/Denied Intermittent and Latent (D/DIL) Data/Information Synchronization Solutions to Aid Variety of Cloud Analytic Nodes",
+            "photo": "img/logo2.png",
+            "time": "1400 - 1430",
+            "day": "3",
+            "room": "Briefing Theater",
+            "session" : "Disconnected/Denied Intermittent and Latent",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/disconnecteddenied-intermittent-and-latent-ddil-datainformation-synchronization-solutions/"
+        },
+        {
+            "speaker": "Douglas Dimola",
+            "description": "Broken Trust: Failures To Protect Sensitive Personnel Data Implications And Next Steps for the C5ISR Community",
+            "photo": "img/logo2.png",
+            "time": "1430 - 1500",
+            "day": "3",
+            "room": "Briefing Theater",
+            "session" : "Broken Trust",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/broken-trust-failures-to-protect-sensitive-personnel-data-implications-and-next-steps-for-the-c5isr-community/"
+        },
+        {
+            "speaker": "Rick Elsbury",
+            "description": "Real-time data to decision in support of Activity Based Intelligence (ABI)",
+            "photo": "img/logo2.png",
+            "time": "1500 - 1530",
+            "day": "3",
+            "room": "Briefing Theater",
+            "session" : "Real-time data to decision",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/real-time-data-to-decision-in-support-of-activity-based-intelligence-abi/"
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1530 - 1535",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" :"Announce Mobile App Winner",
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "Dr. Jeff Barr",
+            "description": "Chief Evangelist for Amazon Web Services (AWS)",
+            "photo": "img/barr.png",
+            "time": "1535 - 1615",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" : "Closing Keynote Speaker",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/speaker/dr-jeff-barr-chief-evangelist/",
+            "questions" : true
+        },
+        {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1615 - 1700",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" :"Closing Ceremony",
+            "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "Moderated by Michael Howard ",
+            "description": "Enjoy Drinks and spark your imagination",
+            "photo": "img/logo2.png",
+            "time": "1615 - 1700",
+            "day": "3",
+            "room": "Sponsor Exhibit Hall",
+            "session" :"Ignite Talks",
+            "date" : "03 Dec 15"
         }
     ]
 }

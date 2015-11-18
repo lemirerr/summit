@@ -4,21 +4,21 @@
             "speaker": " ",
             "description": " ",
             "photo": "img/logo2.png",
-            "time": "0700 - 0900",
-            "day": "2",
-            "room": "Sponsor Exhibit Hall",
-            "session" :"Continental Breakfast",
-            "date" : "02 Dec 15"
+            "time": "1400 - 2000",
+            "day": "1",
+            "room": "Convention Center Lobby",
+            "session" :"Registration Opens",
+            "date" : "01 Dec 15"
         },
         {
             "speaker": " ",
             "description": " ",
             "photo": "img/logo2.png",
-            "time": "0700 - 1700",
-            "day": "2",
+            "time": "1600 - 1800",
+            "day": "1",
             "room": "Sponsor Exhibit Hall",
-            "session" :"SPONSOR EXHIBIT HALL OPEN",
-            "date" : "02 Dec 15"
+            "session" :"General Reception",
+            "date" : "01 Dec 15"
         }
     ]
 }
