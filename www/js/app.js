@@ -53,17 +53,42 @@ App.service("Agenda2", ["$http", "$rootScope", "$log", Agenda2]);
 
 App.service("Agenda3", ["$http", "$rootScope", "$log", Agenda3]);
 
+App.service("Alert", ["$http", "$rootScope", "$log", Alert]);
+
+
 App.controller("AppCtrl", ["$scope", "$ionicLoading", "Agenda", "$log", AppCtrl]);
 
 App.controller("Day2Ctrl", ["$scope", "$ionicLoading", "Agenda2", "$log", Day2Ctrl]);
 
 App.controller("Day3Ctrl", ["$scope", "$ionicLoading", "Agenda3", "$log", Day3Ctrl]);
 
+App.controller("Home", ["$scope", "Alert", "$log", Home]);
+
 App.controller('HomeTabCtrl', function($scope){
 	console.log('HomeTabCtrl');
 });
 
+function Home($scope, Alert, $log){
+	$scope.alert = [];
+	$scope.$on("App.alert", function(_, result){
+		result.alert.forEach(function(a){
+		$scope.alert.push({
+			message: a.message
 
+				});
+			});
+	});
+	Alert.getAlert();
+
+}
+
+function Alert($http, $rootScope, $log){
+	this.getAlert = function($scope){
+		$http.get("alert.json").success(function(result){
+			$rootScope.$broadcast("App.alert", result);			
+		});
+	};
+}
 
 
 function AppCtrl($scope, $ionicLoading, Agenda, $log){
