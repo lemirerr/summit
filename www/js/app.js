@@ -16,7 +16,6 @@ App.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
 			views: {
 				'home-tab': {
 					templateUrl: "templates/home.html",
-					controller: 'HomeTabCtrl'
 				}
 			}
 		})
@@ -48,25 +47,16 @@ App.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
 })
 
 App.service("Agenda", ["$http", "$rootScope", "$log", Agenda]);
-
 App.service("Agenda2", ["$http", "$rootScope", "$log", Agenda2]);
-
 App.service("Agenda3", ["$http", "$rootScope", "$log", Agenda3]);
-
 App.service("Alert", ["$http", "$rootScope", "$log", Alert]);
 
 
 App.controller("AppCtrl", ["$scope", "$ionicLoading", "Agenda", "$log", AppCtrl]);
-
 App.controller("Day2Ctrl", ["$scope", "$ionicLoading", "Agenda2", "$log", Day2Ctrl]);
-
 App.controller("Day3Ctrl", ["$scope", "$ionicLoading", "Agenda3", "$log", Day3Ctrl]);
-
 App.controller("Home", ["$scope", "Alert", "$log", Home]);
 
-App.controller('HomeTabCtrl', function($scope){
-	console.log('HomeTabCtrl');
-});
 
 function Home($scope, Alert, $log){
 	$scope.alert = [];
