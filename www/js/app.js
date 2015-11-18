@@ -77,6 +77,7 @@ function Home($scope, Alert, $log){
 
 				});
 			});
+		$scope.$broadcast("scroll.refreshComplete");
 	});
 	Alert.getAlert();
 
