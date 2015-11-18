@@ -2,9 +2,6 @@
     "alert": [
         {
             "message": "Check back here for alerts"
-        },
-        {
-            "message": "change of plans"
         }
 
     ]

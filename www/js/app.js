@@ -80,6 +80,11 @@ function Home($scope, Alert, $log){
 	});
 	Alert.getAlert();
 
+	$scope.reload = function(){
+		$scope.alert = [];
+		Alert.getAlert();
+		}
+
 }
 
 function Alert($http, $rootScope, $log){

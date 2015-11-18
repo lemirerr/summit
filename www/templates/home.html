@@ -1,12 +1,14 @@
-		<ion-view view-title="Home">
+		<ion-view view-title="2015 C5ISR Summit">
 			<ion-content class="padding" ng-controller="Home">
 				<div class="home-screen">
+					<img src="img/CDCA_logo.png">
 					<h3>Welcome to the</h3>
 					<h3>Ninth Annual Government and Industry Partnership C5ISR Summit!</h3>
+
 				</div>
 				<ion-list>
 					<ion-item ng-repeat="a in alert" class="item-icon-left">
-						<i class="icon ion-chatbubble-working"></i>
+						<i class="icon ion-alert-circled"></i>
 						{{a.message}}
 					</ion-item>
 					
