@@ -1,9 +1,12 @@
 			<ion-content ng-controller="AppCtrl">
 			<ion-refresher pulling-text="Reloading" on-refresh="reload()"></ion-refresher>
+			
+			<!-- space to account for the header -->
 			<div>
-			<br>
-			<br>
+				<br>
+				<br>
 			</div>
+
 				<div class="card list" ng-repeat="a in agenda">
 
 					<!--card header -->
@@ -31,6 +34,10 @@
     					<a class="tab-item" href="{{a.more_url}}">
       						<i class="icon ion-paper-airplane"></i>
       						Details
+    					</a>
+    					<a ng-show="{{a.questions}}" class="tab-item" href="http://www.themislive.com">
+      						<i class="icon ion-help"></i>
+      						Themis Q/A
     					</a>
 					</div>
 				</div>	

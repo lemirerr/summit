@@ -40,7 +40,8 @@
             "room": "Grand Ballroom",
             "session" : "Keynote Speaker #1",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/finding-supplier/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/finding-supplier/",
+            "questions" : true
         },
         {
             "speaker": " ",
@@ -71,7 +72,8 @@
             "room": "Grand Ballroom",
             "session" : "Keynote Speaker #2",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/keynote-speaker-2/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/keynote-speaker-2/",
+            "questions" : true
         },
         {
             "speaker": " ",
@@ -92,7 +94,8 @@
             "room": "Grand Ballroom",
             "session" : "Joint Panel I",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/creating-productivity-1/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/creating-productivity-1/",
+            "questions" : true
         },
         {
             "speaker": "Donovan Lusk",
@@ -146,7 +149,8 @@
             "room": "Grand Ballroom",
             "session" : "Luncheon Keynote #3",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/product-lines/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/product-lines/",
+            "questions" : true
         },
         {
             "speaker": " ",
@@ -167,7 +171,8 @@
             "room": "Ballroom A",
             "session" : "Technical Tracks - Workshop I",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/furnishing-process/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/furnishing-process/",
+            "questions" : true
         },
         {
             "speaker": "Dennis Hager, SPAWAR",
@@ -189,7 +194,8 @@
             "room": "Ballroom B",
             "session" : "Technical Tracks - Workshop II",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/product-presentation/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/product-presentation/",
+            "questions" : true
         },
         {
             "speaker": "Peter Nuwayser",

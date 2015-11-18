@@ -103,7 +103,8 @@ function AppCtrl($scope, $ionicLoading, Agenda, $log){
 					session : a.session,
 					date : a.date,
 					day : a.day,
-					more_url : a.more_url
+					more_url : a.more_url,
+					questions : a.questions
 
 				});
 			});
@@ -137,7 +138,8 @@ function Day2Ctrl($scope, $ionicLoading, Agenda2, $log){
 					session : a.session,
 					date : a.date,
 					day : a.day,
-					more_url : a.more_url
+					more_url : a.more_url,
+					questions : a.questions
 
 				});
 			});
@@ -170,7 +172,8 @@ function Day3Ctrl($scope, $ionicLoading, Agenda3, $log){
 					session : a.session,
 					date : a.date,
 					day : a.day,
-					more_url : a.more_url
+					more_url : a.more_url,
+					questions : a.questions
 
 				});
 			});
