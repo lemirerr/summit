@@ -143,18 +143,6 @@
             "questions" : true
         },
         {
-            "speaker": "LtGen William Bender (USAF), BGen Dennis Crall, (HQMC C4), Mr. Thomas Michelli (USCG), Dr. Marv Langston (Langston Associates), Mr. Jason Opdycke (Microsoft), Mr. Roger Hockenberry (Cognito), Ms. Mindy Cancila (Gartner)   ",
-            "description": "Managing DOD's Data by Partnering with Industry for Cloud Migration",
-            "photo": "img/logo2.png",
-            "time": "1330 - 1530",
-            "day": "3",
-            "room": "Grand Ballroom",
-            "session" : "Technical Track IV",
-            "date" : "03 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iv/",
-            "questions" : true
-        },
-        {
             "speaker": "Mike Nierman, SPAWAR",
             "description": "Joint Threat Warning System: Technical Challenges",
             "photo": "img/logo2.png",
@@ -202,11 +190,23 @@
             "speaker": " ",
             "description": " ",
             "photo": "img/logo2.png",
-            "time": "1530 - 1535",
+            "time": "1500 - 1505",
             "day": "3",
             "room": "Grand Ballroom",
             "session" :"Announce Mobile App Winner",
             "date" : "03 Dec 15"
+        },
+        {
+            "speaker": "LtGen William Bender (USAF), BGen Dennis Crall, (HQMC C4), Mr. Thomas Michelli (USCG), Dr. Marv Langston (Langston Associates), Mr. Jason Opdycke (Microsoft), Mr. Roger Hockenberry (Cognito), Ms. Mindy Cancila (Gartner)   ",
+            "description": "Managing DOD's Data by Partnering with Industry for Cloud Migration",
+            "photo": "img/logo2.png",
+            "time": "1505 - 1630",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" : "Technical Track IV",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iv/",
+            "questions" : true
         },
         {
             "speaker": " ",
