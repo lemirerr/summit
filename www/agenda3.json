@@ -136,7 +136,7 @@
             "photo": "img/logo2.png",
             "time": "1330 - 1530",
             "day": "3",
-            "room": "Ballroom A",
+            "room": "Grand Ballroom",
             "session" : "Technical Track III",
             "date" : "03 Dec 15",
             "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iii/",
@@ -148,7 +148,7 @@
             "photo": "img/logo2.png",
             "time": "1330 - 1530",
             "day": "3",
-            "room": "Ballroom B",
+            "room": "Grand Ballroom",
             "session" : "Technical Track IV",
             "date" : "03 Dec 15",
             "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iv/",
@@ -207,18 +207,6 @@
             "room": "Grand Ballroom",
             "session" :"Announce Mobile App Winner",
             "date" : "03 Dec 15"
-        },
-        {
-            "speaker": "Dr. Jeff Barr",
-            "description": "Chief Evangelist for Amazon Web Services (AWS)",
-            "photo": "img/barr.png",
-            "time": "1535 - 1615",
-            "day": "3",
-            "room": "Grand Ballroom",
-            "session" : "Closing Keynote Speaker",
-            "date" : "03 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/speaker/dr-jeff-barr-chief-evangelist/",
-            "questions" : true
         },
         {
             "speaker": " ",
