@@ -163,16 +163,6 @@
             "date" : "03 Dec 15"
         },
         {
-            "speaker": " ",
-            "description": " ",
-            "photo": "img/logo2.png",
-            "time": "1315 - 1320",
-            "day": "3",
-            "room": "Grand Ballroom",
-            "session" :"Announce Mobile App Winner",
-            "date" : "03 Dec 15"
-        },
-        {
             "speaker": "Col Donald McDaniel, (PMM 111), Col Casey Travers (PMM 112), Mr. Daniel Corbin (PMM 110), Ms. Deb Woods (US SOCOM) ",
             "description": "Technology and Operational Innovations for Future Expeditionary and Special Warfre",
             "photo": "img/logo2.png",
@@ -218,6 +208,16 @@
             "more_url" : "http://summit.charlestondca.org/index.php/session/broken-trust-failures-to-protect-sensitive-personnel-data-implications-and-next-steps-for-the-c5isr-community/"
         },
         {
+            "speaker": " ",
+            "description": " ",
+            "photo": "img/logo2.png",
+            "time": "1500 - 1505",
+            "day": "3",
+            "room": "Grand Ballroom",
+            "session" :"Announce Mobile App Winner",
+            "date" : "03 Dec 15"
+        },
+        {
             "speaker": "Rick Elsbury",
             "description": "Real-time data to decision in support of Activity Based Intelligence (ABI)",
             "photo": "img/logo2.png",
@@ -242,7 +242,7 @@
             "speaker": "LtGen William Bender (USAF), BGen Dennis Crall, (HQMC C4), Mr. Thomas Michelli (USCG), Dr. Marv Langston (Langston Associates), Mr. Jason Opdycke (Microsoft), Mr. Roger Hockenberry (Cognito), Ms. Mindy Cancila (Gartner)   ",
             "description": "Managing DOD's Data by Partnering with Industry for Cloud Migration",
             "photo": "img/logo2.png",
-            "time": "1500 - 1625",
+            "time": "1505 - 1625",
             "day": "3",
             "room": "Grand Ballroom",
             "session" : "Technical Track IV",
