@@ -2,7 +2,11 @@
     "alert": [
         {
             "message": "Pull down to refresh alerts!"
+        },
+        {
+            "message": "Grab your Scavenger Hunt Card from the front desk"
         }
+
 
     ]
 }
