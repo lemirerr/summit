@@ -2,9 +2,6 @@
     "alert": [
         {
             "message": "Pull down to refresh alerts!"
-        },
-        {
-        	"message" : "Bus to Downtown, Tuesday, Pickup 6:15PM Convention Center, Dropoff Market Street Pavilion.  Return 10 PM"
         }
 
     ]
