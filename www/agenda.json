@@ -120,15 +120,15 @@
             "more_url" : "http://summit.charlestondca.org/index.php/session/using-big-data-to-achieve-level-3-it-situational-awareness/"
         },
         {
-            "speaker": "Justin Sellers",
-            "description": "REDHAWK",
+            "speaker": "Peter Nuwayser",
+            "description": "Leveraging commercial cloud computing capabilities to enable rapid, secure delivery of DoD capabilities on or off premises",
             "photo": "img/logo2.png",
             "time": "1130 - 1200",
             "day": "2",
             "room": "Briefing Theater",
-            "session" : "REDHAWK",
+            "session" : "Leveraging Commercial Cloud Computing Capabilities",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/redhawk/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/leveraging-commercial-cloud-computing-capabilities/"
         },
         {
             "speaker": " ",
@@ -198,26 +198,26 @@
             "more_url" : "http://summit.charlestondca.org/index.php/session/3910/"
         },
         {
-            "speaker": "Peter Nuwayser",
-            "description": "Leveraging commercial cloud computing capabilities to enable rapid, secure delivery of DoD capabilities on or off premises",
+            "speaker": "Justin Sellers",
+            "description": "REDHAWK",
             "photo": "img/logo2.png",
             "time": "1430 - 1500",
             "day": "2",
             "room": "Briefing Theater",
-            "session" : "Leveraging Commercial Cloud Computing Capabilities",
+            "session" : "REDHAWK",
             "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/leveraging-commercial-cloud-computing-capabilities/"
+            "more_url" : "http://summit.charlestondca.org/index.php/session/redhawk/"
         },
         {
-            "speaker": "John Nemoto",
-            "description": "Elevating security in commercial cloud implementations to meet the higher DoD Impact Levels",
+            "speaker": "Mike Nierman, SPAWAR",
+            "description": "Joint Threat Warning System: Technical Challenges",
             "photo": "img/logo2.png",
             "time": "1500 - 1530",
-            "day": "2",
+            "day": "3",
             "room": "Briefing Theater",
-            "session" : "Elevating Security in Commercial Cloud Implementations",
-            "date" : "02 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/leveraging-commercial-cloud-computing-capabilities/"
+            "session" : "Joint Threat Warning System",
+            "date" : "03 Dec 15",
+            "more_url" : "http://summit.charlestondca.org/index.php/session/joint-threat-warning-system-technical-challenges/"
         },
         {
             "speaker": " ",
