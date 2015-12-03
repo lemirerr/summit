@@ -93,7 +93,7 @@
             "room": "Grand Ballroom",
             "session" : "Keynote Speaker #6",
             "date" : "03 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/speaker/mr-christopher-a-miller-program-executive-officer/",
+            "more_url" : "http://summit.charlestondca.org/index.php/speaker/mr-philip-d-quade/",
             "questions" : true
         },
         {
@@ -173,17 +173,6 @@
             "date" : "03 Dec 15",
             "more_url" : "http://summit.charlestondca.org/index.php/session/technical-tracks-workshop-iii/",
             "questions" : true
-        },
-        {
-            "speaker": "Mike Nierman, SPAWAR",
-            "description": "Joint Threat Warning System: Technical Challenges",
-            "photo": "img/logo2.png",
-            "time": "1330 - 1400",
-            "day": "3",
-            "room": "Briefing Theater",
-            "session" : "Joint Threat Warning System",
-            "date" : "03 Dec 15",
-            "more_url" : "http://summit.charlestondca.org/index.php/session/joint-threat-warning-system-technical-challenges/"
         },
         {
             "speaker": "Francoise Keefe",
